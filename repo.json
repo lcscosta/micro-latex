@@ -1,0 +1,15 @@
+[{
+  "Name": "micro-latex",
+  "Description": "A minimal implementation for Latex in Micro Editor Text",
+  "Website": "https://github.com/user/plugin",
+  "Tags": ["python", "linting", "Latex"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/user/plugin/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.3"
+      }
+    }
+  ]
+}]
